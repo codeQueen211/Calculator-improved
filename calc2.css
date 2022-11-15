@@ -10,10 +10,6 @@ body{
     word-spacing: 330px; 
 }
 
-
-
-
-
 /* the box containeing the container of the result*/
 .resultbox{
     width: 350px;
@@ -25,7 +21,6 @@ body{
     left: 50%; 
     border-radius: 8px;
 }
-
 
 .resultbox , .calculator{
     display: inline-block;
@@ -79,7 +74,6 @@ body{
     box-shadow: 0 8px 25px grey;
    
 }
-
 
  #equal{
     background-color: brown;
