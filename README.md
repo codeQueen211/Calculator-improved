@@ -1,2 +1,2 @@
-# second-attemot-calc
+# second-attempt-calc
 calculator 2
